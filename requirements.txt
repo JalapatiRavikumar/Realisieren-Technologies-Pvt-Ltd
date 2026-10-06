@@ -1,0 +1,11 @@
+# Core Python Scraping Dependencies
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# FastAPI Backend Dependencies
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.0.0
+
+# Testing Framework
+pytest>=8.0.0
